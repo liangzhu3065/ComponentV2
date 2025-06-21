@@ -1,0 +1,51 @@
+{
+  "routerMap": [
+    {
+      "name": "SecondPage",
+      "pageSourceFile": "src/main/ets/pages/SecondPage.ets",
+      "buildFunction": "subPageBuilder",
+      "data": {
+        "description": "this is PageOne"
+      }
+    },
+    {
+      "name": "ComponentV2Page",
+      "pageSourceFile": "src/main/ets/pages/ComponentV2Page.ets",
+      "buildFunction": "subPageBuilder",
+      "data": {
+        "description": "this is PageOne"
+      }
+    },
+    {
+      "name": "RowPage",
+      "pageSourceFile": "src/main/ets/pages/layout/RowPage.ets",
+      "buildFunction": "subPageBuilder",
+      "data": {
+        "description": "this is PageOne"
+      }
+    },
+    {
+      "name": "FlexPage",
+      "pageSourceFile": "src/main/ets/pages/layout/FlexPage.ets",
+      "buildFunction": "subPageBuilder",
+      "data": {
+        "description": "this is PageOne"
+      }
+    },
+    {
+      "name": "StackPage",
+      "pageSourceFile": "src/main/ets/pages/layout/StackPage.ets",
+      "buildFunction": "subPageBuilder"
+    },
+    {
+      "name": "RelativePage",
+      "pageSourceFile": "src/main/ets/pages/layout/RelativePage.ets",
+      "buildFunction": "subPageBuilder"
+    },
+    {
+      "name": "ListPage",
+      "pageSourceFile": "src/main/ets/pages/layout/ListPage.ets",
+      "buildFunction": "subPageBuilder"
+    }
+  ]
+}

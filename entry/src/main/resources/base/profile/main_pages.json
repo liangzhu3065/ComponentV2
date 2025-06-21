@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/SecondPage",
+    "pages/ComponentV2Page",
+    "pages/layout/RowPage",
+    "pages/layout/FlexPage",
+    "pages/layout/StackPage",
+    "pages/layout/RelativePage",
+    "pages/layout/ListPage",
+    "pages/Index2",
+    "pages/PageB"
+  ]
+}
