@@ -9,6 +9,7 @@
     "pages/layout/RelativePage",
     "pages/layout/ListPage",
     "pages/Index2",
-    "pages/PageB"
+    "pages/PageB",
+    "pages/MainPage"
   ]
 }

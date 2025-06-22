@@ -54,6 +54,10 @@
     {
       "name": "home",
       "srcPath": "./features/home",
+    },
+    {
+      "name": "baseBusiness",
+      "srcPath": "./features/baseBusiness",
     }
   ]
 }

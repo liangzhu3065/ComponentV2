@@ -6,5 +6,6 @@
 
 export class PageConstant {
   static readonly PageB: string = 'PageB'
-  static readonly MainPage: string = 'MainPage'
+  // home模块
+  static readonly BuilderPage: string = 'BuilderPage'
 }
